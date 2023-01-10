@@ -1,0 +1,9 @@
+/home/showay5987/qt_project/build-simple_note_pad-Desktop_Qt_6_3_2_GCC_64bit-Debug/CMakeFiles/simple_note_pad.dir
+/home/showay5987/qt_project/build-simple_note_pad-Desktop_Qt_6_3_2_GCC_64bit-Debug/CMakeFiles/edit_cache.dir
+/home/showay5987/qt_project/build-simple_note_pad-Desktop_Qt_6_3_2_GCC_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/home/showay5987/qt_project/build-simple_note_pad-Desktop_Qt_6_3_2_GCC_64bit-Debug/CMakeFiles/list_install_components.dir
+/home/showay5987/qt_project/build-simple_note_pad-Desktop_Qt_6_3_2_GCC_64bit-Debug/CMakeFiles/install.dir
+/home/showay5987/qt_project/build-simple_note_pad-Desktop_Qt_6_3_2_GCC_64bit-Debug/CMakeFiles/install/local.dir
+/home/showay5987/qt_project/build-simple_note_pad-Desktop_Qt_6_3_2_GCC_64bit-Debug/CMakeFiles/install/strip.dir
+/home/showay5987/qt_project/build-simple_note_pad-Desktop_Qt_6_3_2_GCC_64bit-Debug/CMakeFiles/simple_note_pad_autogen_timestamp_deps.dir
+/home/showay5987/qt_project/build-simple_note_pad-Desktop_Qt_6_3_2_GCC_64bit-Debug/CMakeFiles/simple_note_pad_autogen.dir

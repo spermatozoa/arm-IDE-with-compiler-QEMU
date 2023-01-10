@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-69c1dc78ae5fd09dd13a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "simple_note_pad",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "simple_note_pad::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-simple_note_pad-Debug-7a47f8a72eb89912be29.json",
+					"name" : "simple_note_pad",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "simple_note_pad_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-simple_note_pad_autogen-Debug-590a149cb23581754801.json",
+					"name" : "simple_note_pad_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "simple_note_pad_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-simple_note_pad_autogen_timestamp_deps-Debug-eee3b8d7eebddd4dbb4c.json",
+					"name" : "simple_note_pad_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/showay5987/qt_project/build-simple_note_pad-Desktop_Qt_6_3_2_GCC_64bit-Debug",
+		"source" : "/home/showay5987/qt_project/simple_note_pad"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

@@ -1,0 +1,27 @@
+{
+	"BUILD_DIR" : "/home/showay5987/qt_project/build-simple_note_pad-Desktop_Qt_6_3_2_GCC_64bit-Debug/simple_note_pad_autogen",
+	"CMAKE_BINARY_DIR" : "/home/showay5987/qt_project/build-simple_note_pad-Desktop_Qt_6_3_2_GCC_64bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/showay5987/qt_project/build-simple_note_pad-Desktop_Qt_6_3_2_GCC_64bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/showay5987/qt_project/simple_note_pad",
+	"CMAKE_SOURCE_DIR" : "/home/showay5987/qt_project/simple_note_pad",
+	"INCLUDE_DIR" : "/home/showay5987/qt_project/build-simple_note_pad-Desktop_Qt_6_3_2_GCC_64bit-Debug/simple_note_pad_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/showay5987/qt_project/simple_note_pad/imgs/Save.bmp",
+		"/home/showay5987/qt_project/simple_note_pad/imgs/Paste.bmp",
+		"/home/showay5987/qt_project/simple_note_pad/imgs/DeleteSticky.bmp",
+		"/home/showay5987/qt_project/simple_note_pad/imgs/New.bmp",
+		"/home/showay5987/qt_project/simple_note_pad/imgs/Open.bmp",
+		"/home/showay5987/qt_project/simple_note_pad/imgs/Cut.bmp"
+	],
+	"LOCK_FILE" : "/home/showay5987/qt_project/build-simple_note_pad-Desktop_Qt_6_3_2_GCC_64bit-Debug/CMakeFiles/simple_note_pad_autogen.dir/AutoRcc_Resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "Resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_Resources.cpp",
+	"RCC_EXECUTABLE" : "/home/showay5987/opt/Qt/6.3.2/gcc_64/./libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/showay5987/qt_project/build-simple_note_pad-Desktop_Qt_6_3_2_GCC_64bit-Debug/CMakeFiles/simple_note_pad_autogen.dir/AutoRcc_Resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/showay5987/qt_project/simple_note_pad/Resources.qrc",
+	"VERBOSITY" : 0
+}
